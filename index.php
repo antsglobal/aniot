@@ -12,23 +12,23 @@
 </tr>
 <tr>
 <td style="width: 283px; text-align: center;">23.23</td>
-<td style="width: 297px; text-align: center;">15:07:14</td>
+<td style="width: 297px; text-align: center;"><input type="date" name="myDateTime"></td></td>
 </tr>
 <tr>
 <td style="width: 283px; text-align: center;">24.13</td>
-<td style="width: 297px; text-align: center;">15:08:17</td>
+<td style="width: 297px; text-align: center;"><input type="date" name="myDateTime"></td></td>
 </tr>
 <tr>
 <td style="width: 283px; text-align: center;">25.87</td>
-<td style="width: 297px; text-align: center;">15:09:12</td>
+<td style="width: 297px; text-align: center;"><input type="date" name="myDateTime"></td>
 </tr>
 <tr>
 <td style="width: 283px; text-align: center;">24.90</td>
-<td style="width: 297px; text-align: center;">15:10:18</td>
+<td style="width: 297px; text-align: center;"><input type="date" name="myDateTime"></td>
 </tr>
 <tr>
 <td style="width: 283px; text-align: center;">24.23</td>
-<td style="width: 297px; text-align: center;">15:11:12</td>
+<td style="width: 297px; text-align: center;"><input type="date" name="myDateTime"></td>
 </tr>
 </tbody>
 </table>
