@@ -1,5 +1,5 @@
-<p style="text-align: center;">ALPHA-NUMERO IOT DASHBOARD</p>
-<p style="text-align: center;">&nbsp;</p>
+<h1 style="text-align: center;">ALPHA-NUMERO IOT DASHBOARD</h1>
+<p style="text-align: center;"><span style="text-align: center; color: #0000ff;">WEATHER MONITORING SYSTEM&nbsp;</span></p>
 <table style="height: 55px; width: 595px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
