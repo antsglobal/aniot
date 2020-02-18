@@ -1,11 +1,12 @@
-<p>ALPHA-NUMERO IOT DASHBOARD</p>
-<table style="height: 39px; width: 222px;">
+<p style="text-align: center;">ALPHA-NUMERO IOT DASHBOARD</p>
+<p style="text-align: center;">&nbsp;</p>
+<table style="height: 55px; width: 595px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td style="width: 103px;">&nbsp;TEMPERATURE</td>
-<td style="width: 113px;">TIMESTAMP</td>
+<td style="width: 283px; text-align: center;">&nbsp;TEMPERATURE</td>
+<td style="width: 296px; text-align: center;">TIME STAMP</td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
