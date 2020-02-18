@@ -1,24 +1,34 @@
-<html>
-<head> 
-<title>ALPHA NUMERO</title>
-<!--<meta http-equiv="refresh" content="3">--!>
-</head>
-<body align="center">
-<table  align="center">
-<tr><td><img height="80px" src="logo.png" align="center"></img></td></tr>
-<tr><td align="center"><br/><font size="6" color="#0099CC" face="calibri"><b>IOT DASHBOARD</b></font></td></tr>
+<h1 style="text-align: center;"><span style="background-color: #ff6600;">ALPHA-NUMERO IOT DASHBOARD</span></h1>
+<h2 style="text-align: center;"><strong><span style="text-decoration: underline;"><span style="text-align: center; color: #0000ff; text-decoration: underline;">WEATHER MONITORING SYSTEM&nbsp;</span></span></strong></h2>
+<table style="height: 56px; width: 596px; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 283px; text-align: center;">
+<h3><strong>&nbsp;TEMPERATURE</strong></h3>
+</td>
+<td style="width: 297px; text-align: center;">
+<h3><strong>TIME STAMP</strong></h3>
+</td>
+</tr>
+<tr>
+<td style="width: 283px; text-align: center;">23.23</td>
+<td style="width: 297px; text-align: center;"><input name="myDateTime" type="date" /></td>
+</tr>
+<tr>
+<td style="width: 283px; text-align: center;">24.13</td>
+<td style="width: 297px; text-align: center;"><input name="myDateTime" type="date" /></td>
+</tr>
+<tr>
+<td style="width: 283px; text-align: center;">25.87</td>
+<td style="width: 297px; text-align: center;"><input name="myDateTime" type="date" /></td>
+</tr>
+<tr>
+<td style="width: 283px; text-align: center;">24.90</td>
+<td style="width: 297px; text-align: center;"><input name="myDateTime" type="date" /></td>
+</tr>
+<tr>
+<td style="width: 283px; text-align: center;">24.23</td>
+<td style="width: 297px; text-align: center;"><input name="myDateTime" type="date" /></td>
+</tr>
+</tbody>
 </table>
-</br>
-
-<center>
-
-<iframe frameborder="0" height="600"  width="800" marginheight="10" marginwidth="0" id="dynamic-content" src="displayattendancedata.php" scrolling="yes"></iframe>
-
- <br><br>
-
-<!--<button onclick="window.location='excel-download.php'">Click here to download this data in excel file</button>
---!>
-
-</center>
-</body>
-</html>
