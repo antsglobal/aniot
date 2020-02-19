@@ -25,13 +25,13 @@
 
             var html = "";
             for(var a = 0, sl=1; a < data.length; a++,sl++) {
-                var firstName = sl;
-                var lastName = data[a].temperature;
+                var serlialno = sl;
+                var temperature = data[a].temperature;
                 
 
                 html += "<tr>";
-                    html += "<td>" + firstName + "</td>";
-                    html += "<td>" + lastName + "</td>";
+                    html += "<td>" + serlialno + "</td>";
+                    html += "<td>" + temperature + "</td>";
                     
                 html += "</tr>";
             }
