@@ -26,12 +26,12 @@
             var html = "";
             for(var a = 0, sl=1; a < data.length; a++,sl++) {
                 var serlialno = sl;
-                var temperature = data[a].temperature;
+                var temperature = data[a].Temperature;
                 
 
                 html += "<tr>";
                     html += "<td>" + serlialno + "</td>";
-                    html += "<td>" + temperature + "</td>";
+                    html += "<td>" + Temperature + "</td>";
                     
                 html += "</tr>";
             }
