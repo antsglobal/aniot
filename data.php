@@ -1,10 +1,10 @@
 <?php
 
 //getting the data from the data base
-$conn = mysqli_connect("numero.database.windows.net", "numero", "Alpha@123$", "AN_TEMP");
+$conn = mysqli_connect("numero.database.windows.net", "numero", "Alpha@123$", "ANIOT_TEMP");
 
 //getting the data from the employee table
-$result = mysqli_query($conn, "SELECT * FROM AN_TEMP");
+$result = mysqli_query($conn, "SELECT * FROM ANIOT_TEMP");
 
 //storing it the array 
 $data = array();
