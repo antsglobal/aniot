@@ -4,7 +4,7 @@
 $conn = mysqli_connect("numero.database.windows.net", "numero", "Alpha@123$", "ANIOT_TEMP");
 
 //getting the data from the employee table
-$result = mysqli_query($conn, "SELECT * FROM ANIOT_TEMP");
+$result = mysqli_query($conn, "SELECT Temperature FROM ANIOT_TEMP");
 
 //storing it the array 
 $data = array();
